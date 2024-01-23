@@ -1,5 +1,5 @@
 # web-scraping-challenge
-!/assets/cache_image/assets/components/images/blog/web-scraping_2560x1067_819.webp
+[!/assets/cache_image/assets/components/images/blog/web-scraping_2560x1067_819.webp]
 
 This challenge emphasizes web scraping to retrieve data for analysis and making informed decisions based on that. Web scraping is done using the splinter library of Python to perform browser actions and the BeautifulSoup library to read through the HTML elements of the webpage. And then storing the retrieved data in a Pandas dataframe for visualization of the data, which is then stored as a csv file.
 
