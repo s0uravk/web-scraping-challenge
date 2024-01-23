@@ -1,5 +1,5 @@
 # web-scraping-challenge
-[Uploading web-scraping.webp…]()
+!/assets/cache_image/assets/components/images/blog/web-scraping_2560x1067_819.webp
 
 This challenge emphasizes web scraping to retrieve data for analysis and making informed decisions based on that. Web scraping is done using the splinter library of Python to perform browser actions and the BeautifulSoup library to read through the HTML elements of the webpage. And then storing the retrieved data in a Pandas dataframe for visualization of the data, which is then stored as a csv file.
 
@@ -20,3 +20,5 @@ Going further, that list is converted into the Pandas Dataframe using suitable c
 5.About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
     Consider how many days elapse on Earth in the time that Mars circles the Sun once.
     Visually estimate the result by plotting the daily minimum temperature.
+
+Finally, the retreived data is stored as a CSV file in the  Output folder and the browser is exited.
